@@ -1,0 +1,504 @@
+﻿SPENDING ANALYSIS OF 500 PEOPLE ACROSS FOUR DIFFERENT AREAS,,,,,,,
+,,,,,,,
+,,,,,,,
+Person_ID,Age,Gender,Occupation,Area,Category,Amount,age group
+1,23,Female,Student,Area C,Food,8882,18-25
+2,49,Female,Homemaker,Area C,Utilities,2107,46-60
+3,23,Male,Student,Area B,Food,5073,18-25
+4,49,Male,Business Owner,Area A,Travel,8345,46-60
+5,18,Male,Student,Area B,Food,8926,18-25
+6,24,Female,Student,Area C,Entertainment,801,18-25
+7,46,Female,Business Owner,Area B,Education,23930,46-60
+8,42,Male,Employee,Area D,Utilities,6093,36-45
+9,53,Female,Employee,Area C,Entertainment,7441,46-60
+10,36,Male,Business Owner,Area D,Entertainment,1893,36-45
+11,47,Male,Employee,Area D,Travel,13758,46-60
+12,34,Male,Employee,Area C,Food,4382,26-35
+13,50,Male,Homemaker,Area C,Utilities,5960,46-60
+14,38,Female,Freelancer,Area B,Food,5894,36-45
+15,51,Male,Employee,Area A,Food,3082,46-60
+16,23,Female,Student,Area D,Healthcare,1005,18-25
+17,19,Female,Student,Area A,Food,8852,18-25
+18,24,Male,Student,Area D,Food,4141,18-25
+19,52,Male,Employee,Area C,Shopping,2779,46-60
+20,26,Female,Freelancer,Area A,Healthcare,3359,26-35
+21,37,Male,Employee,Area A,Utilities,3972,36-45
+22,31,Female,Employee,Area D,Travel,9764,26-35
+23,58,Male,Homemaker,Area B,Utilities,3964,46-60
+24,30,Female,Employee,Area A,Travel,13098,26-35
+25,43,Female,Freelancer,Area C,Shopping,2925,36-45
+26,23,Male,Student,Area C,Entertainment,4968,18-25
+27,28,Female,Freelancer,Area A,Travel,9295,26-35
+28,23,Female,Student,Area D,Food,5600,18-25
+29,21,Male,Student,Area A,Food,6125,18-25
+30,23,Male,Student,Area C,Entertainment,1593,18-25
+31,59,Male,Homemaker,Area D,Shopping,15053,46-60
+32,41,Female,Business Owner,Area C,Travel,4672,36-45
+33,33,Male,Business Owner,Area D,Travel,10578,26-35
+34,18,Female,Student,Area D,Shopping,15787,18-25
+35,35,Female,Employee,Area C,Utilities,2376,26-35
+36,36,Female,Business Owner,Area A,Education,15298,36-45
+37,33,Female,Employee,Area C,Food,3924,26-35
+38,22,Female,Student,Area A,Education,4690,18-25
+39,41,Male,Employee,Area D,Entertainment,6286,36-45
+40,50,Female,Employee,Area D,Entertainment,3318,46-60
+41,25,Female,Student,Area C,Utilities,2292,18-25
+42,24,Female,Student,Area B,Entertainment,850,18-25
+43,31,Female,Employee,Area C,Utilities,2609,26-35
+44,24,Female,Employee,Area C,Education,3456,18-25
+45,46,Male,Employee,Area A,Utilities,3135,46-60
+46,24,Female,Student,Area D,Food,1606,18-25
+47,32,Male,Employee,Area A,Travel,3718,26-35
+48,58,Male,Business Owner,Area C,Shopping,17315,46-60
+49,19,Male,Student,Area D,Healthcare,10132,18-25
+50,34,Male,Employee,Area D,Shopping,16698,26-35
+51,24,Female,Student,Area C,Food,2602,18-25
+52,21,Male,Student,Area A,Food,3205,18-25
+53,18,Male,Student,Area D,Education,20921,18-25
+54,21,Female,Student,Area C,Education,12967,18-25
+55,23,Male,Student,Area A,Education,8009,18-25
+56,48,Male,Employee,Area D,Travel,4095,46-60
+57,53,Male,Employee,Area C,Food,7490,46-60
+58,24,Male,Freelancer,Area A,Shopping,13563,18-25
+59,23,Female,Employee,Area C,Travel,4495,18-25
+60,25,Male,Employee,Area A,Entertainment,3161,18-25
+61,45,Male,Freelancer,Area D,Food,2533,36-45
+62,33,Male,Homemaker,Area B,Education,5828,26-35
+63,28,Male,Employee,Area B,Shopping,8580,26-35
+64,22,Male,Freelancer,Area B,Food,7199,18-25
+65,18,Female,Student,Area D,Utilities,2490,18-25
+66,40,Female,Business Owner,Area C,Entertainment,1232,36-45
+67,30,Female,Freelancer,Area D,Travel,4750,26-35
+68,28,Male,Business Owner,Area A,Utilities,3159,26-35
+69,18,Female,Student,Area D,Utilities,5348,18-25
+70,30,Female,Employee,Area A,Healthcare,6732,26-35
+71,22,Female,Employee,Area A,Healthcare,2308,18-25
+72,33,Female,Employee,Area D,Utilities,6808,26-35
+73,34,Female,Employee,Area A,Food,7417,26-35
+74,52,Female,Employee,Area B,Travel,5265,46-60
+75,45,Male,Freelancer,Area B,Shopping,5303,36-45
+76,19,Female,Student,Area A,Education,5411,18-25
+77,38,Female,Employee,Area B,Travel,2519,36-45
+78,37,Male,Freelancer,Area A,Utilities,3501,36-45
+79,41,Female,Employee,Area B,Food,8371,36-45
+80,19,Female,Student,Area D,Education,14756,18-25
+81,36,Male,Homemaker,Area D,Food,3217,36-45
+82,18,Female,Student,Area B,Education,5747,18-25
+83,22,Female,Student,Area B,Education,15783,18-25
+84,29,Male,Business Owner,Area A,Healthcare,7450,26-35
+85,25,Male,Employee,Area C,Travel,9968,18-25
+86,46,Male,Business Owner,Area B,Travel,4276,46-60
+87,53,Male,Employee,Area D,Food,8046,46-60
+88,34,Male,Business Owner,Area A,Shopping,4055,26-35
+89,34,Female,Employee,Area D,Education,14964,26-35
+90,21,Male,Student,Area D,Food,5882,18-25
+91,26,Male,Homemaker,Area A,Food,6774,26-35
+92,25,Female,Employee,Area D,Healthcare,6468,18-25
+93,41,Female,Freelancer,Area D,Entertainment,1351,36-45
+94,21,Male,Student,Area B,Education,24670,18-25
+95,45,Female,Employee,Area C,Travel,14837,36-45
+96,19,Male,Student,Area B,Entertainment,5389,18-25
+97,31,Female,Homemaker,Area B,Healthcare,10031,26-35
+98,45,Female,Employee,Area D,Travel,13126,36-45
+99,43,Male,Employee,Area B,Food,1929,36-45
+100,53,Female,Employee,Area D,Education,6431,46-60
+101,29,Male,Homemaker,Area D,Utilities,4949,26-35
+102,24,Female,Freelancer,Area B,Utilities,5102,18-25
+103,42,Female,Employee,Area C,Travel,8878,36-45
+104,19,Male,Student,Area B,Shopping,3327,18-25
+105,20,Female,Student,Area B,Education,11160,18-25
+106,33,Female,Employee,Area A,Shopping,11066,26-35
+107,54,Female,Employee,Area B,Food,7615,46-60
+108,55,Female,Business Owner,Area C,Food,5017,46-60
+109,30,Female,Homemaker,Area D,Shopping,5658,26-35
+110,23,Female,Student,Area C,Education,20964,18-25
+111,50,Female,Freelancer,Area C,Entertainment,767,46-60
+112,25,Male,Student,Area D,Shopping,2466,18-25
+113,30,Female,Employee,Area C,Entertainment,6022,26-35
+114,21,Male,Student,Area A,Entertainment,4736,18-25
+115,25,Female,Student,Area D,Education,5100,18-25
+116,36,Female,Business Owner,Area B,Travel,7794,36-45
+117,24,Female,Freelancer,Area A,Shopping,14306,18-25
+118,22,Male,Student,Area A,Shopping,8226,18-25
+119,19,Female,Student,Area D,Education,17312,18-25
+120,27,Female,Homemaker,Area A,Food,3950,26-35
+121,50,Female,Homemaker,Area C,Travel,2033,46-60
+122,33,Male,Employee,Area A,Shopping,18386,26-35
+123,35,Female,Employee,Area C,Education,7971,26-35
+124,52,Female,Employee,Area B,Entertainment,7591,46-60
+125,25,Male,Student,Area B,Travel,12472,18-25
+126,36,Female,Employee,Area B,Food,5451,36-45
+127,55,Female,Business Owner,Area D,Education,11836,46-60
+128,40,Male,Employee,Area D,Utilities,1607,36-45
+129,45,Female,Homemaker,Area B,Food,1969,36-45
+130,24,Female,Student,Area C,Healthcare,5760,18-25
+131,21,Female,Student,Area A,Entertainment,4986,18-25
+132,25,Male,Student,Area B,Travel,10632,18-25
+133,22,Female,Student,Area B,Food,3697,18-25
+134,40,Male,Freelancer,Area C,Food,6366,36-45
+135,22,Male,Student,Area D,Food,2798,18-25
+136,35,Female,Business Owner,Area A,Food,1838,26-35
+137,27,Male,Employee,Area D,Shopping,5096,26-35
+138,58,Male,Homemaker,Area B,Healthcare,7790,46-60
+139,40,Female,Homemaker,Area B,Shopping,6189,36-45
+140,47,Male,Employee,Area D,Travel,8075,46-60
+141,26,Male,Freelancer,Area B,Travel,13189,26-35
+142,35,Male,Freelancer,Area B,Food,2881,26-35
+143,19,Male,Student,Area C,Healthcare,1267,18-25
+144,47,Male,Employee,Area B,Utilities,4337,46-60
+145,29,Female,Homemaker,Area C,Healthcare,5358,26-35
+146,20,Male,Student,Area B,Food,7330,18-25
+147,51,Female,Homemaker,Area D,Food,5308,46-60
+148,26,Female,Employee,Area C,Food,5193,26-35
+149,25,Female,Freelancer,Area C,Food,8154,18-25
+150,35,Female,Freelancer,Area A,Entertainment,4430,26-35
+151,48,Male,Homemaker,Area B,Utilities,6552,46-60
+152,55,Male,Employee,Area A,Food,7346,46-60
+153,50,Female,Employee,Area D,Food,3468,46-60
+154,23,Male,Student,Area D,Education,20970,18-25
+155,24,Female,Student,Area D,Food,6194,18-25
+156,47,Female,Employee,Area A,Education,10568,46-60
+157,39,Male,Homemaker,Area B,Utilities,3617,36-45
+158,42,Male,Employee,Area D,Travel,11945,36-45
+159,18,Female,Student,Area B,Education,8974,18-25
+160,32,Male,Employee,Area B,Food,3765,26-35
+161,60,Female,Business Owner,Area A,Travel,7871,46-60
+162,42,Male,Employee,Area A,Travel,13599,36-45
+163,41,Male,Employee,Area C,Food,4919,36-45
+164,51,Female,Employee,Area A,Food,2714,46-60
+165,49,Male,Employee,Area A,Entertainment,833,46-60
+166,48,Male,Homemaker,Area B,Food,7141,46-60
+167,29,Female,Homemaker,Area D,Food,3070,26-35
+168,47,Male,Employee,Area B,Utilities,1085,46-60
+169,37,Male,Freelancer,Area C,Travel,8707,36-45
+170,47,Female,Employee,Area B,Travel,2261,46-60
+171,39,Female,Homemaker,Area A,Healthcare,1920,36-45
+172,21,Female,Freelancer,Area A,Entertainment,3700,18-25
+173,46,Male,Homemaker,Area B,Healthcare,5966,46-60
+174,28,Female,Freelancer,Area C,Travel,6416,26-35
+175,52,Female,Employee,Area D,Travel,10574,46-60
+176,51,Female,Employee,Area A,Healthcare,3363,46-60
+177,44,Male,Freelancer,Area C,Shopping,18155,36-45
+178,27,Female,Freelancer,Area A,Travel,4740,26-35
+179,20,Female,Student,Area B,Shopping,18834,18-25
+180,34,Male,Employee,Area A,Education,23751,26-35
+181,36,Male,Employee,Area B,Food,5583,36-45
+182,35,Female,Employee,Area D,Entertainment,7948,26-35
+183,22,Female,Student,Area B,Education,16874,18-25
+184,21,Female,Student,Area A,Food,5083,18-25
+185,45,Female,Freelancer,Area A,Food,1650,36-45
+186,43,Male,Freelancer,Area D,Food,7363,36-45
+187,33,Female,Homemaker,Area B,Utilities,2782,26-35
+188,21,Female,Student,Area A,Food,5652,18-25
+189,23,Male,Student,Area B,Education,19311,18-25
+190,39,Male,Freelancer,Area A,Shopping,17118,36-45
+191,23,Male,Student,Area B,Education,22149,18-25
+192,30,Male,Employee,Area B,Travel,2394,26-35
+193,42,Female,Homemaker,Area A,Food,1533,36-45
+194,32,Female,Freelancer,Area A,Travel,6108,26-35
+195,19,Female,Student,Area A,Education,20042,18-25
+196,37,Female,Freelancer,Area B,Shopping,12957,36-45
+197,38,Female,Homemaker,Area D,Food,7909,36-45
+198,31,Male,Business Owner,Area D,Travel,9574,26-35
+199,58,Male,Business Owner,Area B,Utilities,6761,46-60
+200,33,Male,Homemaker,Area C,Utilities,1315,26-35
+201,53,Male,Homemaker,Area A,Food,5607,46-60
+202,24,Female,Student,Area C,Food,5305,18-25
+203,46,Female,Freelancer,Area C,Utilities,5983,46-60
+204,50,Female,Freelancer,Area B,Food,3336,46-60
+205,54,Female,Business Owner,Area A,Food,8670,46-60
+206,53,Female,Homemaker,Area B,Healthcare,6070,46-60
+207,39,Male,Employee,Area A,Shopping,6174,36-45
+208,24,Male,Student,Area D,Education,6977,18-25
+209,42,Male,Homemaker,Area B,Food,6515,36-45
+210,43,Female,Homemaker,Area B,Food,7124,36-45
+211,27,Male,Employee,Area A,Utilities,4022,26-35
+212,24,Female,Employee,Area B,Travel,11979,18-25
+213,51,Male,Employee,Area B,Travel,12126,46-60
+214,22,Male,Student,Area C,Food,2162,18-25
+215,37,Female,Employee,Area D,Utilities,863,36-45
+216,22,Male,Employee,Area D,Shopping,11705,18-25
+217,25,Male,Employee,Area D,Travel,1652,18-25
+218,31,Female,Employee,Area A,Food,5266,26-35
+219,26,Male,Business Owner,Area A,Food,7930,26-35
+220,55,Male,Employee,Area A,Utilities,2784,46-60
+221,52,Female,Employee,Area B,Education,18950,46-60
+222,22,Male,Student,Area D,Healthcare,6621,18-25
+223,39,Male,Freelancer,Area B,Food,8901,36-45
+224,33,Female,Employee,Area A,Shopping,6562,26-35
+225,53,Female,Employee,Area C,Utilities,1718,46-60
+226,55,Female,Business Owner,Area A,Utilities,3840,46-60
+227,21,Male,Freelancer,Area C,Shopping,15389,18-25
+228,25,Female,Student,Area B,Food,4625,18-25
+229,24,Female,Student,Area A,Education,9476,18-25
+230,21,Male,Student,Area C,Shopping,8131,18-25
+231,22,Female,Employee,Area C,Shopping,4682,18-25
+232,24,Female,Student,Area C,Entertainment,4330,18-25
+233,56,Female,Homemaker,Area B,Utilities,2283,46-60
+234,52,Male,Homemaker,Area C,Food,7512,46-60
+235,18,Female,Student,Area B,Healthcare,2653,18-25
+236,23,Female,Student,Area B,Travel,3763,18-25
+237,24,Female,Employee,Area C,Travel,1487,18-25
+238,38,Male,Freelancer,Area C,Healthcare,5255,36-45
+239,59,Male,Homemaker,Area A,Entertainment,7877,46-60
+240,57,Female,Homemaker,Area A,Food,3672,46-60
+241,59,Female,Homemaker,Area C,Healthcare,10147,46-60
+242,21,Female,Student,Area D,Food,2884,18-25
+243,51,Female,Homemaker,Area A,Utilities,3132,46-60
+244,24,Male,Employee,Area D,Food,6658,18-25
+245,44,Female,Employee,Area C,Utilities,3782,36-45
+246,27,Male,Homemaker,Area B,Utilities,3472,26-35
+247,54,Female,Employee,Area B,Shopping,19706,46-60
+248,60,Male,Business Owner,Area C,Entertainment,6757,46-60
+249,48,Female,Freelancer,Area C,Education,19011,46-60
+250,31,Female,Homemaker,Area B,Entertainment,2886,26-35
+251,56,Male,Homemaker,Area C,Food,2517,46-60
+252,25,Female,Student,Area B,Utilities,5944,18-25
+253,26,Male,Employee,Area C,Food,2407,26-35
+254,52,Male,Homemaker,Area D,Utilities,2226,46-60
+255,37,Male,Employee,Area B,Entertainment,1970,36-45
+256,18,Male,Student,Area A,Food,1796,18-25
+257,37,Female,Employee,Area D,Travel,6272,36-45
+258,24,Male,Student,Area A,Education,23024,18-25
+259,59,Male,Homemaker,Area A,Healthcare,11066,46-60
+260,20,Female,Student,Area D,Entertainment,928,18-25
+261,20,Male,Student,Area D,Education,9204,18-25
+262,19,Female,Student,Area A,Shopping,19670,18-25
+263,55,Female,Homemaker,Area A,Food,5479,46-60
+264,28,Male,Freelancer,Area D,Shopping,8646,26-35
+265,44,Male,Employee,Area C,Food,2004,36-45
+266,49,Male,Business Owner,Area D,Shopping,19622,46-60
+267,53,Male,Employee,Area C,Utilities,2309,46-60
+268,46,Female,Employee,Area C,Travel,13631,46-60
+269,54,Female,Employee,Area B,Entertainment,3253,46-60
+270,23,Female,Freelancer,Area C,Travel,13606,18-25
+271,21,Female,Student,Area D,Education,18648,18-25
+272,53,Female,Business Owner,Area A,Food,1881,46-60
+273,47,Male,Employee,Area C,Food,3792,46-60
+274,25,Male,Freelancer,Area B,Utilities,1381,18-25
+275,43,Male,Employee,Area D,Utilities,4840,36-45
+276,35,Male,Employee,Area C,Utilities,1949,26-35
+277,49,Female,Business Owner,Area A,Food,3328,46-60
+278,46,Male,Freelancer,Area B,Food,6835,46-60
+279,29,Female,Homemaker,Area D,Food,1942,26-35
+280,21,Male,Student,Area C,Education,21363,18-25
+281,45,Female,Employee,Area C,Shopping,17266,36-45
+282,26,Male,Employee,Area D,Travel,4291,26-35
+283,29,Female,Freelancer,Area B,Travel,7176,26-35
+284,20,Male,Student,Area C,Travel,14686,18-25
+285,55,Female,Employee,Area C,Travel,7010,46-60
+286,58,Male,Business Owner,Area A,Entertainment,3565,46-60
+287,26,Female,Freelancer,Area A,Food,1749,26-35
+288,20,Male,Student,Area B,Education,8253,18-25
+289,21,Male,Student,Area A,Healthcare,9466,18-25
+290,35,Male,Business Owner,Area D,Entertainment,2318,26-35
+291,36,Male,Freelancer,Area A,Utilities,4694,36-45
+292,47,Male,Freelancer,Area A,Entertainment,6684,46-60
+293,48,Female,Employee,Area C,Healthcare,1973,46-60
+294,41,Female,Freelancer,Area D,Travel,8818,36-45
+295,46,Female,Freelancer,Area D,Healthcare,6178,46-60
+296,50,Female,Employee,Area C,Utilities,1053,46-60
+297,23,Male,Employee,Area D,Food,7605,18-25
+298,41,Male,Freelancer,Area D,Entertainment,3721,36-45
+299,45,Female,Employee,Area C,Utilities,3853,36-45
+300,30,Female,Freelancer,Area C,Shopping,14493,26-35
+301,35,Male,Business Owner,Area B,Utilities,3409,26-35
+302,55,Female,Business Owner,Area A,Travel,13673,46-60
+303,38,Male,Employee,Area C,Utilities,837,36-45
+304,26,Female,Employee,Area B,Utilities,6825,26-35
+305,18,Female,Student,Area A,Entertainment,2732,18-25
+306,20,Male,Student,Area C,Entertainment,6189,18-25
+307,23,Male,Employee,Area D,Healthcare,9024,18-25
+308,39,Female,Freelancer,Area B,Entertainment,2466,36-45
+309,40,Female,Employee,Area D,Utilities,2676,36-45
+310,33,Male,Employee,Area C,Entertainment,2676,26-35
+311,40,Male,Employee,Area C,Food,5456,36-45
+312,30,Male,Freelancer,Area A,Entertainment,1146,26-35
+313,37,Female,Employee,Area D,Food,3059,36-45
+314,43,Female,Business Owner,Area D,Food,3157,36-45
+315,51,Female,Employee,Area D,Utilities,4295,46-60
+316,48,Female,Business Owner,Area D,Food,4721,46-60
+317,36,Male,Employee,Area D,Healthcare,8677,36-45
+318,41,Male,Employee,Area D,Entertainment,4710,36-45
+319,29,Female,Employee,Area D,Food,6352,26-35
+320,25,Male,Employee,Area A,Travel,4316,18-25
+321,28,Male,Employee,Area A,Education,9661,26-35
+322,41,Male,Freelancer,Area D,Travel,2801,36-45
+323,48,Female,Business Owner,Area B,Food,3411,46-60
+324,27,Female,Homemaker,Area B,Healthcare,5412,26-35
+325,32,Male,Homemaker,Area C,Food,5573,26-35
+326,30,Male,Homemaker,Area B,Healthcare,6487,26-35
+327,50,Female,Business Owner,Area D,Utilities,2430,46-60
+328,43,Male,Business Owner,Area B,Shopping,11315,36-45
+329,18,Female,Student,Area D,Education,16905,18-25
+330,34,Female,Business Owner,Area C,Travel,10734,26-35
+331,35,Female,Employee,Area B,Shopping,10484,26-35
+332,42,Female,Employee,Area A,Travel,7098,36-45
+333,39,Female,Freelancer,Area C,Shopping,18700,36-45
+334,40,Male,Homemaker,Area D,Utilities,1935,36-45
+335,32,Female,Employee,Area C,Entertainment,4452,26-35
+336,53,Female,Employee,Area B,Utilities,4475,46-60
+337,46,Female,Homemaker,Area A,Food,8377,46-60
+338,39,Male,Business Owner,Area A,Shopping,7910,36-45
+339,39,Female,Homemaker,Area A,Healthcare,8879,36-45
+340,25,Female,Student,Area B,Education,11407,18-25
+341,25,Female,Employee,Area C,Travel,12528,18-25
+342,22,Female,Student,Area C,Food,1866,18-25
+343,39,Male,Employee,Area B,Travel,2807,36-45
+344,55,Female,Employee,Area B,Healthcare,10227,46-60
+345,55,Male,Business Owner,Area A,Utilities,6374,46-60
+346,47,Female,Freelancer,Area D,Travel,3526,46-60
+347,41,Male,Employee,Area C,Shopping,10061,36-45
+348,31,Male,Employee,Area C,Healthcare,2696,26-35
+349,45,Male,Business Owner,Area A,Healthcare,5148,36-45
+350,44,Male,Freelancer,Area A,Entertainment,5917,36-45
+351,44,Male,Freelancer,Area D,Travel,4040,36-45
+352,48,Male,Homemaker,Area C,Healthcare,5656,46-60
+353,33,Female,Business Owner,Area A,Utilities,2599,26-35
+354,43,Male,Homemaker,Area A,Utilities,3707,36-45
+355,20,Male,Student,Area D,Education,21144,18-25
+356,27,Female,Business Owner,Area A,Shopping,18033,26-35
+357,39,Female,Business Owner,Area B,Food,3801,36-45
+358,33,Female,Employee,Area C,Healthcare,11842,26-35
+359,22,Male,Student,Area A,Education,18190,18-25
+360,21,Female,Student,Area A,Food,6681,18-25
+361,44,Female,Homemaker,Area D,Food,6085,36-45
+362,20,Male,Student,Area D,Education,8177,18-25
+363,20,Male,Student,Area B,Food,4190,18-25
+364,19,Female,Student,Area A,Food,5427,18-25
+365,44,Male,Freelancer,Area C,Utilities,7000,36-45
+366,20,Male,Student,Area D,Shopping,8983,18-25
+367,28,Male,Employee,Area D,Education,21959,26-35
+368,24,Female,Employee,Area A,Utilities,4156,18-25
+369,39,Male,Business Owner,Area B,Food,2723,36-45
+370,51,Female,Business Owner,Area C,Food,6188,46-60
+371,28,Male,Employee,Area C,Travel,14225,26-35
+372,19,Female,Student,Area D,Education,17083,18-25
+373,27,Female,Employee,Area B,Education,20830,26-35
+374,26,Female,Employee,Area A,Shopping,9192,26-35
+375,24,Male,Student,Area C,Food,5641,18-25
+376,25,Male,Student,Area D,Food,3329,18-25
+377,37,Female,Employee,Area C,Entertainment,6476,36-45
+378,20,Male,Student,Area B,Food,2165,18-25
+379,25,Male,Student,Area A,Shopping,18137,18-25
+380,24,Male,Student,Area A,Food,4539,18-25
+381,56,Male,Homemaker,Area B,Healthcare,4004,46-60
+382,42,Male,Employee,Area B,Utilities,4112,36-45
+383,47,Female,Homemaker,Area A,Food,5617,46-60
+384,37,Female,Employee,Area C,Utilities,2004,36-45
+385,25,Male,Employee,Area C,Utilities,3258,18-25
+386,52,Male,Employee,Area A,Food,7812,46-60
+387,31,Female,Homemaker,Area C,Food,6246,26-35
+388,19,Male,Student,Area C,Education,4621,18-25
+389,52,Male,Employee,Area C,Shopping,17030,46-60
+390,56,Male,Homemaker,Area A,Utilities,4087,46-60
+391,20,Female,Student,Area C,Food,8412,18-25
+392,34,Female,Freelancer,Area D,Food,7727,26-35
+393,54,Female,Employee,Area B,Food,4964,46-60
+394,30,Male,Business Owner,Area C,Utilities,3946,26-35
+395,42,Female,Employee,Area C,Utilities,2174,36-45
+396,34,Male,Employee,Area A,Food,4116,26-35
+397,24,Female,Student,Area C,Shopping,13928,18-25
+398,55,Female,Employee,Area A,Healthcare,3446,46-60
+399,35,Male,Business Owner,Area D,Shopping,2158,26-35
+400,22,Female,Student,Area C,Food,7333,18-25
+401,23,Female,Student,Area A,Education,20784,18-25
+402,51,Female,Business Owner,Area C,Shopping,18897,46-60
+403,27,Female,Homemaker,Area B,Utilities,1188,26-35
+404,45,Male,Employee,Area C,Food,2645,36-45
+405,24,Female,Student,Area A,Food,5161,18-25
+406,42,Female,Business Owner,Area A,Travel,6103,36-45
+407,26,Male,Employee,Area B,Education,6515,26-35
+408,21,Female,Student,Area A,Travel,4675,18-25
+409,24,Male,Student,Area A,Shopping,5646,18-25
+410,34,Female,Employee,Area B,Food,5646,26-35
+411,19,Female,Student,Area A,Education,21255,18-25
+412,49,Male,Freelancer,Area A,Education,11486,46-60
+413,27,Male,Homemaker,Area B,Healthcare,5783,26-35
+414,27,Male,Freelancer,Area C,Shopping,19850,26-35
+415,43,Male,Homemaker,Area B,Utilities,5008,36-45
+416,45,Male,Employee,Area B,Travel,1612,36-45
+417,41,Male,Employee,Area A,Entertainment,2554,36-45
+418,49,Male,Homemaker,Area A,Food,3808,46-60
+419,27,Male,Employee,Area D,Utilities,5874,26-35
+420,18,Male,Student,Area D,Food,3692,18-25
+421,25,Male,Student,Area D,Shopping,15285,18-25
+422,25,Female,Business Owner,Area B,Entertainment,7364,18-25
+423,31,Female,Employee,Area C,Education,13637,26-35
+424,31,Female,Employee,Area C,Utilities,1165,26-35
+425,24,Male,Student,Area A,Entertainment,1301,18-25
+426,48,Male,Employee,Area D,Food,2435,46-60
+427,28,Male,Freelancer,Area A,Shopping,9605,26-35
+428,24,Female,Student,Area C,Utilities,6659,18-25
+429,59,Male,Homemaker,Area D,Healthcare,7901,46-60
+430,51,Female,Employee,Area A,Food,2916,46-60
+431,29,Female,Freelancer,Area A,Entertainment,6203,26-35
+432,23,Male,Employee,Area B,Food,3320,18-25
+433,48,Female,Freelancer,Area C,Food,5480,46-60
+434,27,Female,Employee,Area B,Shopping,5531,26-35
+435,56,Male,Business Owner,Area B,Travel,5041,46-60
+436,37,Female,Homemaker,Area D,Healthcare,11938,36-45
+437,27,Male,Employee,Area D,Entertainment,4538,26-35
+438,25,Male,Student,Area C,Utilities,3410,18-25
+439,18,Female,Student,Area C,Entertainment,7523,18-25
+440,51,Female,Employee,Area A,Utilities,1097,46-60
+441,19,Male,Student,Area C,Education,14782,18-25
+442,40,Male,Employee,Area A,Travel,13048,36-45
+443,45,Male,Employee,Area A,Travel,7777,36-45
+444,51,Female,Employee,Area D,Utilities,1607,46-60
+445,22,Male,Student,Area B,Education,14780,18-25
+446,31,Male,Freelancer,Area B,Utilities,1150,26-35
+447,42,Male,Employee,Area B,Utilities,5742,36-45
+448,23,Female,Student,Area B,Food,2163,18-25
+449,30,Male,Employee,Area D,Food,8811,26-35
+450,56,Male,Business Owner,Area D,Food,7864,46-60
+451,43,Male,Business Owner,Area D,Food,5594,36-45
+452,22,Female,Student,Area C,Education,21294,18-25
+453,25,Female,Student,Area A,Food,5284,18-25
+454,25,Female,Student,Area B,Utilities,3438,18-25
+455,45,Male,Employee,Area C,Shopping,17234,36-45
+456,40,Female,Employee,Area A,Food,1857,36-45
+457,37,Female,Employee,Area A,Food,3351,36-45
+458,19,Male,Student,Area D,Education,24273,18-25
+459,20,Male,Student,Area A,Shopping,7640,18-25
+460,29,Female,Employee,Area D,Food,6852,26-35
+461,51,Female,Homemaker,Area D,Food,7639,46-60
+462,52,Female,Employee,Area A,Entertainment,4895,46-60
+463,38,Male,Freelancer,Area C,Food,8121,36-45
+464,33,Male,Employee,Area C,Entertainment,5052,26-35
+465,51,Male,Employee,Area C,Utilities,6543,46-60
+466,52,Male,Business Owner,Area D,Entertainment,2824,46-60
+467,25,Male,Student,Area A,Entertainment,4518,18-25
+468,34,Male,Employee,Area B,Utilities,908,26-35
+469,23,Female,Student,Area D,Entertainment,6204,18-25
+470,38,Male,Employee,Area D,Entertainment,4300,36-45
+471,23,Male,Freelancer,Area B,Shopping,13125,18-25
+472,44,Male,Freelancer,Area D,Education,21970,36-45
+473,37,Male,Employee,Area C,Utilities,6881,36-45
+474,52,Male,Employee,Area C,Utilities,5848,46-60
+475,51,Male,Employee,Area D,Food,5562,46-60
+476,37,Male,Employee,Area C,Food,8081,36-45
+477,25,Male,Employee,Area B,Travel,11884,18-25
+478,18,Female,Student,Area C,Food,4261,18-25
+479,46,Male,Employee,Area B,Utilities,6284,46-60
+480,46,Male,Freelancer,Area A,Entertainment,6813,46-60
+481,21,Male,Student,Area B,Healthcare,6731,18-25
+482,22,Male,Student,Area A,Food,1699,18-25
+483,56,Female,Business Owner,Area A,Utilities,5379,46-60
+484,23,Male,Student,Area A,Education,16747,18-25
+485,25,Female,Student,Area A,Food,2354,18-25
+486,40,Male,Employee,Area B,Travel,5796,36-45
+487,19,Male,Student,Area B,Entertainment,4044,18-25
+488,31,Male,Homemaker,Area B,Utilities,907,26-35
+489,18,Female,Student,Area B,Education,24745,18-25
+490,25,Female,Student,Area B,Food,4403,18-25
+491,23,Female,Employee,Area C,Travel,11045,18-25
+492,60,Male,Business Owner,Area D,Utilities,1817,46-60
+493,44,Female,Freelancer,Area A,Food,3781,36-45
+494,49,Female,Employee,Area B,Utilities,2305,46-60
+495,35,Female,Homemaker,Area A,Food,3448,26-35
+496,40,Female,Business Owner,Area B,Shopping,5771,36-45
+497,38,Female,Employee,Area D,Entertainment,5962,36-45
+498,25,Male,Student,Area C,Education,19586,18-25
+499,39,Female,Employee,Area B,Food,7603,36-45
+500,41,Female,Employee,Area A,Travel,9045,36-45
