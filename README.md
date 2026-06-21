@@ -49,7 +49,7 @@ Columns:
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard]/assets/(Dashboard.png)
 
 ---
 
